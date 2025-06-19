@@ -3,7 +3,7 @@
 🚀 **Project Title:** Multi-Stage Amplifier and Filtering Circuit  
 📍 **Module:** IE2030 – Analog Electronics  
 🏫 **Institute:** SLIIT | BSc (Hons) in IT – CSNE Specialization  
-👨‍🔧 **Student:** Gamaethige Thisara Sandeepa (IT23584990)
+👨‍🔧 **Student:** Gamaethige Thisara Sandeepa
 
 ---
 
