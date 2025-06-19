@@ -20,11 +20,12 @@ This project simulates the **audio output section of an AM radio**, integrating:
 
 ## 📷 Preview
 
-| Stage | Description | Oscilloscope Output |
-|-------|-------------|----------------------|
-| 1️⃣ | High-Pass Filter | ![HighPass](./images/highpass.png) |
-| 2️⃣ | BJT Amplifier | ![Amplifier](./images/amplifier.png) |
-| 3️⃣ | Low-Pass Filter | ![LowPass](./images/lowpass.png) |
+| Stage | Description        | Oscilloscope Output                    |
+|-------|--------------------|----------------------------------------|
+| 1️⃣   | High-Pass Filter    | ![HighPass](./images/HighPass.png)     |
+| 2️⃣   | BJT Amplifier       | ![Amplifier](./images/Amplifier.png)   |
+| 3️⃣   | Low-Pass Filter     | ![LowPass](./images/LowPass.png)       |
+
 
 *(Replace with actual images if available)*
 
